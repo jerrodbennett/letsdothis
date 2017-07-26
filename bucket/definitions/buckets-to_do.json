@@ -1,0 +1,22 @@
+{
+  "bucket_data" : {
+    "buckets" : {
+      "3qkk9rzj" : {
+        "attributes" : {
+          "collection" : "zhd6k7cx"
+        },
+        "created" : "1501074724850",
+        "id" : "3qkk9rzj",
+        "labels" : {
+          "label" : "To Do",
+          "labelp" : "To Dos"
+        },
+        "name" : "to_do",
+        "owner" : "0ffe5cc3c4ce4e9b92d62c90cd1058d5",
+        "schema_version" : "0",
+        "system_updated" : "0",
+        "type" : "records"
+      }
+    }
+  }
+}

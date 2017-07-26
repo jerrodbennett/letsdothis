@@ -1,0 +1,20 @@
+{
+  "bucket_data" : {
+    "slots" : {
+      "zhd6k7cx.due_date" : {
+        "attributes" : { },
+        "bucket" : "zhd6k7cx",
+        "created" : "1501073688654",
+        "labels" : {
+          "label" : "Due date",
+          "labelp" : "Due dates"
+        },
+        "name" : "due_date",
+        "owner" : "0ffe5cc3c4ce4e9b92d62c90cd1058d5",
+        "schema_version" : "0",
+        "system_updated" : "0",
+        "type" : "date_time"
+      }
+    }
+  }
+}
