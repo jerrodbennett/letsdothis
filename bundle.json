@@ -1,5 +1,5 @@
 {
-   "branch" : "",
+   "branch" : "master",
    "bundle_name" : "letsdothis",
    "dependencies" : [
       {
@@ -7,8 +7,8 @@
          "version" : "0.1.0"
       }
    ],
-   "icon" : "",
-   "icon_color" : "#999999",
+   "icon" : "fontawesome:thumbs-o-up",
+   "icon_color" : "#2391f2",
    "id" : "dev.letsdothis",
    "page_banner" : "",
    "parametrics_form" : "",

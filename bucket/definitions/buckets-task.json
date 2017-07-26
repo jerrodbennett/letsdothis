@@ -1,0 +1,20 @@
+{
+  "bucket_data" : {
+    "buckets" : {
+      "zhd6k7cx" : {
+        "attributes" : {
+          "display" : "name"
+        },
+        "created" : "1501035443517",
+        "id" : "zhd6k7cx",
+        "labels" : {
+          "label" : "Task",
+          "labelp" : "Tasks"
+        },
+        "name" : "task",
+        "system_updated" : "0",
+        "type" : "collection"
+      }
+    }
+  }
+}

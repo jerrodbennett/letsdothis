@@ -1,0 +1,22 @@
+{
+  "bucket_data" : {
+    "slots" : {
+      "zhd6k7cx.title" : {
+        "attributes" : {
+          "maxlength" : 255
+        },
+        "bucket" : "zhd6k7cx",
+        "created" : "1501035739236",
+        "labels" : {
+          "label" : "Title",
+          "labelp" : "Titles"
+        },
+        "name" : "title",
+        "owner" : "0ffe5cc3c4ce4e9b92d62c90cd1058d5",
+        "schema_version" : "0",
+        "system_updated" : "0",
+        "type" : "string"
+      }
+    }
+  }
+}
