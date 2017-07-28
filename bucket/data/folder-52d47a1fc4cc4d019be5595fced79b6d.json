@@ -1,0 +1,14 @@
+{
+  "bucket_data" : {
+    "4sl8rhs5" : {
+      "52d47a1fc4cc4d019be5595fced79b6d" : {
+        "created" : "1501207505690",
+        "id" : "52d47a1fc4cc4d019be5595fced79b6d",
+        "name" : "Movie List",
+        "owner" : "0ffe5cc3c4ce4e9b92d62c90cd1058d5",
+        "schema_version" : "0",
+        "system_updated" : "0"
+      }
+    }
+  }
+}

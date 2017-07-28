@@ -1,0 +1,20 @@
+{
+  "bucket_data" : {
+    "buckets" : {
+      "4sl8rhs5" : {
+        "attributes" : { },
+        "created" : "1501207027489",
+        "id" : "4sl8rhs5",
+        "labels" : {
+          "label" : "Folder",
+          "labelp" : "Folders"
+        },
+        "name" : "folder",
+        "owner" : "0ffe5cc3c4ce4e9b92d62c90cd1058d5",
+        "schema_version" : "0",
+        "system_updated" : "0",
+        "type" : "config"
+      }
+    }
+  }
+}

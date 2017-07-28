@@ -1,0 +1,31 @@
+{
+  "bucket_data" : {
+    "slots" : {
+      "3qkk9rzj.folder" : {
+        "attributes" : {
+          "choice_type" : "dropdown",
+          "multiple" : "false",
+          "buckets" : "false",
+          "slots" : "false",
+          "slot_types" : "false",
+          "bucket_name" : "4sl8rhs5",
+          "use_parent_bucket" : "false",
+          "sort_choices" : "0",
+          "none_option" : "false",
+          "hide_jumpto" : "false",
+          "default" : "23dd0f884cd0435eb4fcaccc29a03dd4"
+        },
+        "bucket" : "3qkk9rzj",
+        "created" : "1501207821084",
+        "id" : "3qkk9rzj.folder",
+        "labels" : {
+          "label" : "Folder",
+          "labelp" : "Folders"
+        },
+        "name" : "folder",
+        "system_updated" : "0",
+        "type" : "choice"
+      }
+    }
+  }
+}

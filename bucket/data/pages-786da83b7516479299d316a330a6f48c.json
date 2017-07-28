@@ -1,0 +1,102 @@
+{
+  "bucket_data" : {
+    "pages" : {
+      "786da83b7516479299d316a330a6f48c" : {
+        "created" : "1501205581048",
+        "id" : "786da83b7516479299d316a330a6f48c",
+        "layout" : {
+          "__start__" : {
+            "type" : "container",
+            "w" : "100%",
+            "h" : "100%",
+            "contains" : [
+              "component_90149531a8b10b19c9271bcfc4495504"
+            ]
+          },
+          "component_90149531a8b10b19c9271bcfc4495504" : {
+            "type" : "component",
+            "component" : "details",
+            "id" : "component_90149531a8b10b19c9271bcfc4495504",
+            "name" : "component_90149531a8b10b19c9271bcfc4495504",
+            "needs_subpage_target" : false,
+            "attributes" : {
+              "bucket" : "3qkk9rzj",
+              "new_record" : "false",
+              "layout" : {
+                "layout" : {
+                  "version" : 1,
+                  "layout" : [
+                    {
+                      "type" : "section",
+                      "colData" : [
+                        { },
+                        { }
+                      ],
+                      "cols" : [
+                        [
+                          {
+                            "type" : "slot",
+                            "name" : "number"
+                          },
+                          {
+                            "type" : "slot",
+                            "name" : "folder"
+                          }
+                        ],
+                        [
+                          {
+                            "type" : "slot",
+                            "name" : "created"
+                          },
+                          {
+                            "type" : "slot",
+                            "name" : "due_date"
+                          }
+                        ]
+                      ],
+                      "guid" : "a2igd3",
+                      "columns" : 2
+                    },
+                    {
+                      "type" : "section",
+                      "colData" : [
+                        { }
+                      ],
+                      "cols" : [
+                        [
+                          {
+                            "type" : "slot",
+                            "name" : "title"
+                          }
+                        ]
+                      ],
+                      "guid" : "18bcef2e0357f6fd417a7a6099f89158",
+                      "columns" : 1
+                    }
+                  ],
+                  "pageData" : { }
+                }
+              },
+              "component" : "details",
+              "new_record_values" : "[]",
+              "read_only" : "false",
+              "query" : "%{pageVars.q}",
+              "include_actions" : "1",
+              "id" : "71e96557524cdd9219af2a18d5571f16",
+              "__raw" : {
+                "query" : "%{pageVars.q}"
+              }
+            },
+            "w" : "100%",
+            "h" : "100%"
+          }
+        },
+        "name" : "details.default.to_do",
+        "owner" : "0ffe5cc3c4ce4e9b92d62c90cd1058d5",
+        "public" : "0",
+        "schema_version" : "0",
+        "system_updated" : "0"
+      }
+    }
+  }
+}

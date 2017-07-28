@@ -1,0 +1,64 @@
+{
+  "bucket_data" : {
+    "pages" : {
+      "0aeadcfbda1248ee9ef0dc51f64a3bc3" : {
+        "created" : "1501204674939",
+        "id" : "0aeadcfbda1248ee9ef0dc51f64a3bc3",
+        "layout" : {
+          "__start__" : {
+            "type" : "container",
+            "w" : "100%",
+            "h" : "100%",
+            "contains" : [
+              "component_6ac695cf2c3be4c5107a5776af977005",
+              "component_7c13674ba6ffa3421ebc370db157cb72"
+            ],
+            "layout_type" : "page_components"
+          },
+          "component_6ac695cf2c3be4c5107a5776af977005" : {
+            "type" : "component",
+            "component" : "navigator",
+            "id" : "component_6ac695cf2c3be4c5107a5776af977005",
+            "name" : "component_6ac695cf2c3be4c5107a5776af977005",
+            "page_loading" : false,
+            "needs_subpage_target" : true,
+            "attributes" : {
+              "component" : "navigator",
+              "button_width" : 100,
+              "button_height" : 60,
+              "button_sizing" : "specify",
+              "name" : "",
+              "navigator" : "03caeea9671e4756a1a72d191f0c84e7",
+              "event_name" : "",
+              "id" : "428ab5cd86513aab90b1d489541f5be2",
+              "type" : "menu",
+              "menu_width" : 300
+            },
+            "w" : "20%",
+            "h" : "100%"
+          },
+          "component_7c13674ba6ffa3421ebc370db157cb72" : {
+            "type" : "component",
+            "component" : "markup",
+            "id" : "component_7c13674ba6ffa3421ebc370db157cb72",
+            "name" : "component_7c13674ba6ffa3421ebc370db157cb72",
+            "page_loading" : false,
+            "needs_subpage_target" : false,
+            "attributes" : {
+              "component" : "markup",
+              "type" : "html",
+              "html" : ""
+            },
+            "h" : "100%",
+            "w" : "80%"
+          }
+        },
+        "name" : "home",
+        "owner" : "0ffe5cc3c4ce4e9b92d62c90cd1058d5",
+        "public" : "0",
+        "schema_version" : "0",
+        "system_updated" : "0"
+      }
+    }
+  }
+}

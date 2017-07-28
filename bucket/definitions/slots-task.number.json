@@ -1,21 +1,21 @@
 {
   "bucket_data" : {
     "slots" : {
-      "zhd6k7cx.name" : {
+      "zhd6k7cx.number" : {
         "attributes" : {
-          "maxlength" : 40
+          "prefix" : "TASK"
         },
         "bucket" : "zhd6k7cx",
-        "created" : "1501035546524",
+        "created" : "1501205360891",
         "labels" : {
-          "label" : "Name",
-          "labelp" : "Names"
+          "label" : "Number",
+          "labelp" : "Numbers"
         },
-        "name" : "name",
+        "name" : "number",
         "owner" : "0ffe5cc3c4ce4e9b92d62c90cd1058d5",
         "schema_version" : "0",
         "system_updated" : "0",
-        "type" : "string"
+        "type" : "number"
       }
     }
   }

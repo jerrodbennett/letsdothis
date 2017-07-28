@@ -1,16 +1,17 @@
 {
   "bucket_data" : {
     "slots" : {
-      "zhd6k7cx.title" : {
+      "3qkk9rzj.title" : {
         "attributes" : {
           "maxlength" : 255,
           "only_alphanum" : "false",
-          "placeholder_text" : "New To Do",
-          "pattern_validation" : "0"
+          "placeholder_text" : "",
+          "pattern_validation" : "0",
+          "default" : "New To Do"
         },
-        "bucket" : "zhd6k7cx",
+        "bucket" : "3qkk9rzj",
         "created" : "1501035739236",
-        "id" : "zhd6k7cx.title",
+        "id" : "3qkk9rzj.title",
         "labels" : {
           "label" : "Title",
           "labelp" : "Titles"

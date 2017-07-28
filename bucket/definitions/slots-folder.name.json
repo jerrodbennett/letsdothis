@@ -1,0 +1,22 @@
+{
+  "bucket_data" : {
+    "slots" : {
+      "4sl8rhs5.name" : {
+        "attributes" : {
+          "placeholder_text" : "Folder Name"
+        },
+        "bucket" : "4sl8rhs5",
+        "created" : "1501207274429",
+        "labels" : {
+          "label" : "Name",
+          "labelp" : "Names"
+        },
+        "name" : "name",
+        "owner" : "0ffe5cc3c4ce4e9b92d62c90cd1058d5",
+        "schema_version" : "0",
+        "system_updated" : "0",
+        "type" : "string"
+      }
+    }
+  }
+}

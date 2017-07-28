@@ -1,0 +1,22 @@
+{
+  "bucket_data" : {
+    "slots" : {
+      "3qkk9rzj.detail" : {
+        "attributes" : {
+          "maxlength" : 1000
+        },
+        "bucket" : "3qkk9rzj",
+        "created" : "1501208380816",
+        "labels" : {
+          "label" : "Detail",
+          "labelp" : "Details"
+        },
+        "name" : "detail",
+        "owner" : "0ffe5cc3c4ce4e9b92d62c90cd1058d5",
+        "schema_version" : "0",
+        "system_updated" : "0",
+        "type" : "string"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "bucket_data" : {
+    "navigator_item_seperator" : {
+      "0d9f4e78131d43bbaee85b3e535fcb4a" : {
+        "collapsible" : "",
+        "color" : "",
+        "created" : "1501207412832",
+        "icon" : "",
+        "id" : "0d9f4e78131d43bbaee85b3e535fcb4a",
+        "label" : "Organize",
+        "order" : "2",
+        "owner" : "0ffe5cc3c4ce4e9b92d62c90cd1058d5",
+        "parent" : "03caeea9671e4756a1a72d191f0c84e7",
+        "schema_version" : "0",
+        "system_updated" : "0"
+      }
+    }
+  }
+}
