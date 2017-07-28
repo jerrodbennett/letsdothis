@@ -1,0 +1,24 @@
+{
+  "bucket_data" : {
+    "pages" : {
+      "504fb6e6c2384148984bcee935c1aca7" : {
+        "created" : "1501238271830",
+        "id" : "504fb6e6c2384148984bcee935c1aca7",
+        "layout" : {
+          "__start__" : {
+            "type" : "container",
+            "w" : "100%",
+            "h" : "100%",
+            "contains" : [ ],
+            "layout_type" : "page_components"
+          }
+        },
+        "name" : "tiles",
+        "owner" : "0ffe5cc3c4ce4e9b92d62c90cd1058d5",
+        "public" : "0",
+        "schema_version" : "0",
+        "system_updated" : "0"
+      }
+    }
+  }
+}

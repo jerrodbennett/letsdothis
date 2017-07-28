@@ -1,0 +1,24 @@
+{
+  "bucket_data" : {
+    "pages" : {
+      "6b377f80fe6c4c109e6d3886744a93bf" : {
+        "created" : "1501238683627",
+        "id" : "6b377f80fe6c4c109e6d3886744a93bf",
+        "layout" : {
+          "__start__" : {
+            "type" : "container",
+            "w" : "100%",
+            "h" : "100%",
+            "contains" : [ ],
+            "layout_type" : "page_components"
+          }
+        },
+        "name" : "page-template",
+        "owner" : "0ffe5cc3c4ce4e9b92d62c90cd1058d5",
+        "public" : "0",
+        "schema_version" : "0",
+        "system_updated" : "0"
+      }
+    }
+  }
+}

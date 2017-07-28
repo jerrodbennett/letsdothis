@@ -11,7 +11,8 @@
             "h" : "100%",
             "contains" : [
               "component_22afc6b7762c0593b7ad3bde9fec4fe0"
-            ]
+            ],
+            "layout_type" : "page_components"
           },
           "component_22afc6b7762c0593b7ad3bde9fec4fe0" : {
             "type" : "component",
@@ -27,7 +28,7 @@
                 "title",
                 "folder"
               ],
-              "query" : "%{pageVars.q}",
+              "query" : "[]",
               "__raw" : {
                 "query" : "%{pageVars.q}"
               },
